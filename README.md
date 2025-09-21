@@ -6,6 +6,7 @@
 </head>
 <body>
     <p>What is the price per dollar?</p>
+    <p>Made by Garastey Arsen</p>
 </body>
 </html>
 
