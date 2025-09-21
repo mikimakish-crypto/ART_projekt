@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>ART_projekt</h1>
+    <p>What is the price per dollar?</p>
 </body>
 </html>
 
